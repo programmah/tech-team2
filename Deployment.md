@@ -60,9 +60,3 @@ Follow the dataset instructions in the relevant lab notebook or place prepared d
 ### Known Issues
 
 - List commonly encountered issues and solutions here
-
-## Repository
-
-- Owner: `programmah`
-- Default branch: `main`
-- Estimated duration: Add Bootcamp tutorial duration
